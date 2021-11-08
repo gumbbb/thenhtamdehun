@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'chắc chắn là TNTA ùi :>',
     mess: 'đùa thui phại là Nguyễn Thanh Tâm chớ bất ngờ chưa sập pờ rai chuaaa 😘😘',
     messDesc: 'hợp lí chuaaa.',
-    btnAccept: 'IB với ngừi kewt nhấc dũ trụ nefooo :3 ',
+    btnAccept: 'IB với ngừi kewt nhấc dũ trụ nèoooo :3 ',
     messLink: 'https://m.me/as.cacf' //m.melink mess của các bạn. VD: https://m.me/nam.nodemy
 }
